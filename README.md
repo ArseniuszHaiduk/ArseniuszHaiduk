@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,idea,vscode,figma" />
 </div>
 
 <hr/>
