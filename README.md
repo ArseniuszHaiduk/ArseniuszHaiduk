@@ -3,7 +3,7 @@
 ### ⚡ About Me:
 
 - 👀 I’m interested in **Backend Development**
-- 🌱 I’m currently learning **ASP .NET MVC, Spring Boot**
+- 🌱 I’m currently learning **ASP .NET MVC, SQL Server**
 - 🔥 All of my projects are available at [Repositories](https://github.com/ArseniuszHaiduk?tab=repositories)
 - 👨🏻‍💻 I’m looking to collaborate on **various projects!**
 
