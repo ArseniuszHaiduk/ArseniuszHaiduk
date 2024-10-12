@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Haiduk Arseny
-## A .Net and Java developer
+## A .Net and Java developer | 1+ year experience
 ### ⚡ About Me:
 
 - 👀 I’m interested in **Backend Development**
