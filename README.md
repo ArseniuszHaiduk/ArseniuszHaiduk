@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Haiduk Arseny
-## A .Net and Java developer | 1+ year experience
+## A .Net developer | 1+ year experience
 ### ⚡ About Me:
 
 - 👀 I’m interested in **Backend Development**
-- 🌱 I’m currently learning **ASP .NET MVC, MySQL**
+- 🌱 I’m currently learning **ASP .NET Core, MS SQL**
 - 🔥 All of my projects are available at [Repositories](https://github.com/ArseniuszHaiduk?tab=repositories)
-- 👨🏻‍💻 I’m looking to collaborate on **various projects!**
+- 👨🏻‍💻 I’m looking for a **job!**
 
 ## 🌐 Socials
 <a href="mailto:arseniusz.haiduk@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)</a>
