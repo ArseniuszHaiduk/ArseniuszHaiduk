@@ -2,9 +2,9 @@
 ## A Fullstack .Net developer | 2+ year experience
 ### ⚡ About Me:
 
+- 📄 Know about my exprerience [LinkedIn](https://www.linkedin.com/in/arseny-haiduk-04884132b/)
 - 🔥 All of my projects are available at [Repositories](https://github.com/ArseniuszHaiduk?tab=repositories)
 - 👨🏻‍💻 Ask me about **.NET**
-- 📄 Know about my exprerience [LinkedIn](https://www.linkedin.com/in/arseny-haiduk-04884132b/)
 
 ## 🌐 Socials
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arseniusz.haiduk@gmail.com)
