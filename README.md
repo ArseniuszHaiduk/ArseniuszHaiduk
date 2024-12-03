@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Haiduk Arseny
-## A .Net developer | 1+ year experience
+## A Fullstack .Net developer | 2+ year experience
 ### ⚡ About Me:
 
-- 👀 I’m interested in **Backend Development**
-- 🌱 I’m currently learning **ASP .NET Core, MS SQL**
 - 🔥 All of my projects are available at [Repositories](https://github.com/ArseniuszHaiduk?tab=repositories)
-- 👨🏻‍💻 I’m looking for a **job!**
+- 👨🏻‍💻 Ask me about **.NET**
+- 📄 Know about my exprerience [LinkedIn](https://www.linkedin.com/in/arseny-haiduk-04884132b/)
 
 ## 🌐 Socials
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arseniusz.haiduk@gmail.com)
