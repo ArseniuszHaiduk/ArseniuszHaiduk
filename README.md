@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Haiduk Arseny
-## A Fullstack .Net developer | 2+ year experience
+## A Fullstack .Net developer | 3+ year experience
 ### ⚡ About Me:
 
 - 📄 Know about my exprerience [LinkedIn](https://www.linkedin.com/in/arseny-haiduk-04884132b/)
